@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate coding enthusiast with a love for
 - 🌱 I’m currently learning **Machine Learning, Blockchain Development, LLMs, Neural Networks**
 - 👯 I’m looking to collaborate on **Open Source Projects & Innovative Tech Projects**
 - 💬 Ask me about **Mathematics, Marketing, Business Case Studies**
-- 📫 How to reach me: **jahnavi03p@gmail.com**
+- 📫 How to reach me: **jahnavip257@gmail.com**
 - ⚡ Fun fact: **I love solving suduko puzzles and developing 2D games for fun!**
 
 ---
