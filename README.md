@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm a passionate coding enthusiast with a love for
 ## 💼 Featured Projects
 Here are a few of the projects I'm most proud of:
 
+- **[Product Store: MERN Project](https://github.com/jan257/Product_Store-_-full_stack_project.git):** The Full Stack Project is a feature-rich web application designed to showcase the seamless integration of a modern frontend with a robust backend. Built using the MERN stack (MongoDB, Express, React, Node.js), this platform demonstrates a variety of functionalities, including user-friendly navigation, responsive design, and dynamic data handling.
+
 - **[Rapid Delivery: Courier Management System](https://github.com/jan257/Courier-Management-System-.git):** Rapid Delivery Management System is a web-based application designed to facilitate courier services by providing features for placing courier orders, tracking delivery status, and collecting user feedback. The system is built using PHP and MySQL, ensuring robustness, scalability, and security.
 
 ---
