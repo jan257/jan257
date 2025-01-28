@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate coding enthusiast with a love for
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Machine Learning, Blockchain Development, LLMs, Neural Networks**
+- 🌱 I’m currently learning **Machine Learning, Full stack development, LLMs, Neural Networks**
 - 👯 I’m looking to collaborate on **Open Source Projects & Innovative Tech Projects**
 - 💬 Ask me about **Mathematics, Marketing, Business Case Studies**
 - 📫 How to reach me: **jahnavip257@gmail.com**
@@ -14,11 +14,12 @@ Welcome to my GitHub profile! I'm a passionate coding enthusiast with a love for
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, PHP, C#
+- **Languages:** Python, PHP, C#, JavaScript
 - **Game Engine:** Unity
-- **Frameworks:** TensorFlow
+- **Frameworks:** TensorFlow, React, Node.js
+- **API:** Postman
 - **Tools:** Git, VS code
-- **Databases:** MySQL
+- **Databases:** MySQL, MongoDB
 
 ---
 
