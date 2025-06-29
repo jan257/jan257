@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm an Engineering Gradute, AI/ML enthusiast, Aspi
 **Languages:** Python, JavaScript, PHP, C#                                         
 **Data Analysis & Visualization:** SQL, Power BI    
 **Frameworks/Libraries:** React, Node.js, Django, Flask, TensorFlow    
-**AI/ML Tools:** OpenCV, Scikit-Learn, LSTM, MLP, Transformers  
-**Game Development:** Unity  
+**AI/ML Tools:** OpenCV, Scikit-Learn, LSTM, MLP, Transformers   
 **Databases:** PostgreSQL, MongoDB, MySQL  
 **Dev Tools:** Git, VS Code, Postman, Firebase, Neon  
-**Cloud & APIs:** OpenAI API, REST APIs, RapidAPI
+**Cloud & APIs:** OpenAI API, REST APIs, RapidAPI    
+**Game Development:** Unity 
 
 ---
 
