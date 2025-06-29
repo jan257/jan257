@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm an Engineering Gradute, AI/ML enthusiast, Aspi
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year Engineering Student specializing in **AI & ML**
+- 🎓 Engineering Graduate specializing in **AI & ML**
 - 🧠 Currently building:  
   - **AI Finance Executive** – an intelligent, persistent personal finance dashboard  
 - 🌱 Learning & exploring: **Large Language Models, Predictive Analytics, System Design**
