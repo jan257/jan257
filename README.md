@@ -39,7 +39,7 @@ A multimodal deepfake detection platform using image & video-based pipelines, in
 An intelligent personal finance tracker built for insights, projections, and alerting on spending behavior.  
 **Tech stack:** Django, PostgreSQL (Neon), LSTM, Charts.js, JWT Auth
 
-### 🛒 [Real Time Chat App – Full Stack MERN Project](https://github.com/jan257/Real-Time-Chat-App.git)
+### 💬 [Real Time Chat App – Full Stack MERN Project](https://github.com/jan257/Real-Time-Chat-App.git)
 A fully functional real-time chat application that allows users to communicate seamlessly through an intuitive and responsive interface.  
 **Tech stack:** MongoDB, Express, React, Node.js
 
