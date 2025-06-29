@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm an Engineering Gradute, AI/ML enthusiast, Aspi
 
 ## 🛠️ Skills & Tools
 
-**Languages:** Python, JavaScript, PHP, C#
-**Data Analysis & Visualization:** SQL, Power BI
-**Frameworks/Libraries:** React, Node.js, Django, Flask, TensorFlow
+**Languages:** Python, JavaScript, PHP, C#                                         
+**Data Analysis & Visualization:** SQL, Power BI    
+**Frameworks/Libraries:** React, Node.js, Django, Flask, TensorFlow    
 **AI/ML Tools:** OpenCV, Scikit-Learn, LSTM, MLP, Transformers  
 **Game Development:** Unity  
 **Databases:** PostgreSQL, MongoDB, MySQL  
