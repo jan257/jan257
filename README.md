@@ -35,10 +35,6 @@ Welcome to my GitHub profile! I'm an Engineering Gradute, AI/ML enthusiast, Aspi
 A multimodal deepfake detection platform using image & video-based pipelines, integrating pre-trained models and visual confidence scoring with a modern UI.  
 **Tech stack:** Django, PyTorch, OpenCV, Tailwind CSS
 
-### 📊 [AI Finance Executive – Predictive Analytics Dashboard](https://github.com/jan257/ai-finance-executive)
-An intelligent personal finance tracker built for insights, projections, and alerting on spending behavior.  
-**Tech stack:** Django, PostgreSQL (Neon), LSTM, Charts.js, JWT Auth
-
 ### 💬 [Real Time Chat App – Full Stack MERN Project](https://github.com/jan257/Real-Time-Chat-App.git)
 A fully functional real-time chat application that allows users to communicate seamlessly through an intuitive and responsive interface.  
 **Tech stack:** MongoDB, Express, React, Node.js
