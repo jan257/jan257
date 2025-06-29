@@ -63,7 +63,7 @@ Web-based courier tracking and feedback system.
 
 ## 🤝 Let's Connect
 
-- 📫 Email: [jahnavip257@gmail.com](mailto:jahnavip257@gmail.com) / [jahnavi03p@gmail.com](mailto:jahnavi03p@gmail.com)  
+- 📫 Email: [jahnavip257@gmail.com](mailto:jahnavip257@gmail.com) 
 - 💼 LinkedIn: [Jahnavi P](https://www.linkedin.com/in/jahnavi-p-a68788233)  
 - 🐦 Twitter: [@jahnavi_p_](https://x.com/jahnavi_p_)
 
