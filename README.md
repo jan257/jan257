@@ -35,6 +35,11 @@ Welcome to my GitHub profile! I'm an Engineering Gradute, AI/ML enthusiast, Aspi
 A multimodal deepfake detection platform using image & video-based pipelines, integrating pre-trained models and visual confidence scoring with a modern UI.  
 **Tech stack:** Django, PyTorch, OpenCV, Tailwind CSS
 
+### 📊 [Customer Churn Prediction – Logistic Regression Model](https://github.com/jan257/churn-analytics-business-case.git)
+A logistic regression model to predict customer churn using telecom data and segmented users by churn risk. Conducted EDA, identified top churn drivers, and generated actionable retention strategies.  
+**Tools:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Logistic Regression
+
+
 ### 💬 [Real Time Chat App – Full Stack MERN Project](https://github.com/jan257/Real-Time-Chat-App.git)
 A fully functional real-time chat application that allows users to communicate seamlessly through an intuitive and responsive interface.  
 **Tech stack:** MongoDB, Express, React, Node.js
